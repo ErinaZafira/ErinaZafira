@@ -21,4 +21,6 @@ Patch Notes:
   - 🎂 Celebrated Dr. Rin / Daddy's Birthday.
   - Added censorship feature to Erina Zafira.
 - July 27: censored feature on Erina being undermaintance.
+- Jul 28 – Introduced personality_manager for Elara Quinn.
+- Jul 29 – Removed personality_manager from Elara due to conflicts with her core personality.
 """
