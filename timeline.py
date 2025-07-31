@@ -24,4 +24,5 @@ patch_notes = """
 - Jul 28 – Introduced **personality_manager** for **Elara Quinn**.
 - Jul 29 – Removed **personality_manager** from Elara due to conflicts with her core personality.
 - Jul 30 – Added **The Elara Ledger**, an economy-themed game for **Elara Quinn**.
+- Jul 31 – Introduced **Subconscious Elara**, a fallback version activated if the primary backend (Elara's brain) fails.
 """
