@@ -7,11 +7,11 @@ patch_notes = """
 - Apr 20 – Introduced Yuna Hanabira.
 - Apr 28 – Deployed Elara Quinn.
 - May 02 – Released Erina Zafira.
-- Jun 30 – Meowssi launched first AI: Alice Misaki.
+- Jun 30 – Meowrur launched first AI: Alice Misaki.
 - Jul 03 – Unveiled Hana Elqisya.
 - Jul 08 – Upgraded Hana with Dialectal NLP Support.
 - Jul 16 – Re-added Hana Elqisya to Discord.
-- Jul 18 – Meowrru introduced second AI: Ji-hye.
+- Jul 18 – Meowrur introduced second AI: Ji-hye.
 - Jul 20 – Created Chibi Stickers for Elara and Erina.
 - Jul 21:
   - Renamed Aiko Shirasaki to Sakumi Shizune (designated as the eldest sister).
